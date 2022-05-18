@@ -1,0 +1,11 @@
+{
+  "homepage": "https://ykycuk.github.io/portfolio_3.0",
+
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
